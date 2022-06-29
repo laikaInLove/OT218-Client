@@ -7,7 +7,7 @@
 
 ##  💼 Proyecto
 
-### ONG  "SOMOS MAS" 🔺🟨🔵 \
+### ONG  "SOMOS MÁS" 🔺🟨🔵 \
 Somos un equipo de desarrolladores Android y nuestro líder técnico nos comparte el pedido de un cliente nuevo que está buscando nuestra ayuda. El pedido lo hizo Carlos, él director de la ONG llamada Somos Más, que está buscando desarrollar una aplicación móvil para su organización.
 
 ## 🙋‍♂️💁‍♀️🧏‍♂️ Team
@@ -17,7 +17,7 @@ Somos un equipo de desarrolladores Android y nuestro líder técnico nos compart
 -   [Gustavo Maldonado](https://github.com/malgus79)
 -   [Matías Rostán](https://github.com/mrostan21)
 
-## 🛠️ Tecnologias y herramientas
+## 🛠️ Tecnologías y herramientas
 ![enter image description here](https://i.imgur.com/L9W0ZBQ.png)    ![enter image description here](https://i.imgur.com/eBPlR1F.png)   ![enter image description here](https://lh3.googleusercontent.com/AhKjmTdux9-FrdjHcOkCrav9FUIZBz2-aaIaSvqSdTqdEGt3ri1udN921Iq-oe812twoJnebV4pv_VI4tNUA09ZSKsxaAdkTvpTHREVkLNECtWwJYLnhQT33jkmQ2lfrjYLNTY-9vmNePwGxeVYykfA80N8HjP_VAl_P5bfSe_0DWxc5ipiXy0D2p4ZZwJwTbHUvyB0YARBy0CFJQaKf8zm1WLOT-X6gylnoSmNyQixYtX06PWPO-aoyHMDXXrkQRJu8_jwxnnv7S9y_pSEvdPFAdGeGGK0xowe2VNvGSkAybdB5r3GBL7cBqrqJ18F5WoBYKibT-xWqHYegt2-PtDoXu0GutyFdiWHSP6QWUGWNz8z08GUS1FTuNJJq3C3AbFQIyLA1WuEErf6few0Zk_e6ghO9HOvQkFoZ_B07eCMjx4WkGwys4kx4417rnARNJuJS8MJDlEnZQJLopMnwIXy_o_rwHZ52bLM3uBCpMA5vhmzYT9zr0AuO-O20Mf0ztWszuy2_6P88ruZMfm5UDXR9S4dQW7RiF2lSh3QfeUQfKgQhPY4et9UC2MeGEGe0wnkj75lHMAbWSokiFKnn5oVifO2c1p-pzO9uqkU1eL9pEvsrCQwWgY19MWMTWh6MJ2NebqwXq6rbApOQ8XrYURtcyAEK0wbvnaV1pF_OLw3oPgSoFW7YxVUK2d4Avuke8pggAp5upiMEUAp-ydeQMRtFtzkstvGnzXrH_NQGWsTmpyrceybntkt69ine79tQJESxk50Ku_pIDmGofyKG8jktOIDYZMPZLRCq=w88-h40-no?authuser=0)![enter image description here](https://i.imgur.com/alfqhL7.png)  ![enter image description here](https://i.imgur.com/YNzDZ2K.png)![enter image description here](https://i.imgur.com/nFW94MF.png)![enter image description here](https://i.imgur.com/nPZHfAH.png)
 
 -   Navigation component
