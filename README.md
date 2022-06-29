@@ -26,12 +26,11 @@ Somos un equipo de desarrolladores Android y nuestro líder técnico nos compart
 -   OkHttp3
 -   Hilt
 -   Coroutines
--   Flow
+-   Live Data
 -   Firebase:
     -   Cloud Messaging
     -   Auth
     -   Analytics
--   Coil
 -   Facebook Login
 -   Google Login
 -   Unit testing
@@ -40,7 +39,7 @@ Somos un equipo de desarrolladores Android y nuestro líder técnico nos compart
     
    ##  👨‍💻 👨‍🏭 Metodología
 -   🌱 Inicio 21/04/2022
--  🌳 Demo presentación final el 27/06/2022
+-   🌳 Demo presentación final el 19/05/2022
 -   🧏‍♂️ Metodologías ágiles Scrum
 -   🙋 Reuniones diarias y planeaciones semanales
 -   💬 Comunicación a través de Slack, Meet y Discord
