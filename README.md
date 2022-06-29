@@ -12,7 +12,7 @@ Somos un equipo de desarrolladores Android y nuestro líder técnico nos compart
 
 ## 🙋‍♂️💁‍♀️🧏‍♂️ Team
 
--   [Leandro Alvarez](Leandro%20Alvarez)  _(Mentor)_
+-   [Leandro Alvarez](https://github.com/LeanAlvarez)  _(Mentor)_
 -   [Juan Camilo Urbano](https://github.com/laikaInLove)
 -   [Gustavo Maldonado](https://github.com/malgus79)
 -   [Matías Rostán](https://github.com/mrostan21)
