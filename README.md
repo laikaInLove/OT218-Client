@@ -2,8 +2,8 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/_SeLiLBUVGtRzyjMUnmhxK__ZK5ffg0qf96zRgccAstdI8FvGeeVquRZsElZoUqCqp5EGMcCpLjK0P15LbP9e4kpUa-xXqxRcl9nSvmvy1A12bG1YAyEicwj4QzIbd-fBEiFUc7HSgRrBWpdPZa4L9vme07kmuXEMJzeQhNmfSqkfVVa6iiR72xF99qZ5Ua1qTFRpg5xDhKExSxf-Pb8xC5b5JsOkbuzfmTA2DhgelpPwdzJAGNF4izIjSIZgu-fSYQYTInB2ewoqThfhY2gdOzheU6sCCvF4D7vmYhGGETN1vHbGMF1M0Bk8dsTC3FdI9W8jT56opbUpr6rJ7LUbbZDS7hsjP8ft57SfMm9UE06YAvGa24ZqQtWFTaQOqd0q-vYJtPjWGF1ufqOaqCxqPIIyuHe-oXUnSTVXcKUifYVasNXXtVDc63nSqmEuWS_720uqz7c0liB6y4z2k_PDUGXM-S8lgUJV9LxkPJnZSAvnNWovcNG6YCmXcEIFubNkZOXTiJp0Wt7pIm2RunO-kCQvq7iY_TI6gHnzluyUkzwzqE_BfvahL8xTG589x_QnklfPpqUMTSTQqnzd_DccmoJotFSAJ-1Vn7gGpSB7Up8_b-eOmSisWieYjq5iygv3sIt5X7mM6jeowHgsxeizq1BpdNxrkgHeHpAjSUTelxV8dJ3Bp4Hn0FQg4iYe96aGCdnnMwdqaDSgm7euq0kZE70h_qCSGrO5skF-WLH2owbrKKlPUJ2kWQCpGhYwOrZCQHdi5vweBXYoc-jnEublSbP0zBprroysBtA=w1557-h508-no?authuser=0)
 
-🔗 Link a la página [Alkemy](https://www.alkemy.org/)
-🔗 Repositorio [OT218-Kotlin](https://github.com/alkemyTech/OT218-Client)
+- 🔗 Link a la página [Alkemy](https://www.alkemy.org/)
+- 🔗 Repositorio [OT218-Kotlin](https://github.com/alkemyTech/OT218-Client)
 
 ##  💼 Proyecto
 
